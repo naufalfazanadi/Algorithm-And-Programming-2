@@ -1,0 +1,8 @@
+pola1 2 0
+pola1 0 1
+pola1 1 1
+pola1 2 1
+pola1 2 2
+pola2 1 1
+## # #
+

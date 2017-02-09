@@ -1,0 +1,3 @@
+-warning ketika x y sama.
+-jika salah pilih menu beri warning.
+-wait(3.0);

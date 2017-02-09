@@ -1,0 +1,10 @@
+T027 Dona 205
+T018 Dipsi 200
+T008 Aisyah 160
+T001 Moni 120
+T031 Dola 105
+T017 Hopin 100
+T009 Hidun 90
+T004 Dina 55
+T008 Lala 50
+## ## ##

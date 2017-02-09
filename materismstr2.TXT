@@ -1,0 +1,21 @@
+1 : matriks
+2 : matriks (typedef)
+3 : rekursif
+=================================
+4 : KUIS 1
+=================================
+5 : insertion and selsction sort
+6 : bubble and quick sort
+7 : penggabungan larik (array)
+=================================
+8 : UTS
+=================================
+9 : sequential dan binary search
+10 : sequential file
+11 : implementasi arsip beruntun
+=================================
+12 : KUIS 2
+=================================
+13 : mesin abstrak
+14 : mesin kata
+15 : UAS
